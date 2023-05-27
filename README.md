@@ -7,7 +7,7 @@ This is a media converter written in python. It can convert most media file type
 ![image](https://github.com/metalninja1001/MediaKon/assets/101802030/004188a7-3f58-4a05-be6e-a50b8447fa33)
 
 
-- As you can see, it is required of you to specify the `-i` switch for the input file and the `-o` for the name you would like to give the file along with the file extention. See below:
+- As you can see, it is required of you to specify the `-i` switch for the input file and the `-o` switch for the name you would like to give the file along with the file extention. See below:
 
 ![image](https://github.com/metalninja1001/MediaKon/assets/101802030/635f8596-5594-4faf-8dbb-33957e11f972)
 
